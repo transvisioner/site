@@ -1,0 +1,36 @@
+book:
+  name: 图书翻译
+  items:
+    这是一本书:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    这是第二本书:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/2.html
+notbook:
+  name: 非图书翻译
+  items:
+    这是电影:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    这是字幕:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/2.html
+sync:
+  name: 同声传译
+  items:
+    同声传译1:
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
+    同声传译2:
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/2.html
+async:
+  name: 交替传译
+  items:
+    交替传译1:
+      avatar: /img/lang/aier.jpg
+      link: /case/async/1.html
+    交替传译2:
+      avatar: /img/lang/aier.jpg
+      link: /case/async/2.html

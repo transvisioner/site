@@ -1,0 +1,148 @@
+service:
+  笔译:
+    link: /price/1.html
+    avatar: /img/service/1.jpg
+  口译:
+    link: /price/2.html
+    avatar: /img/service/2.jpg
+  培训:
+    link: /price/3.html
+    avatar: /img/service/3.jpg
+  图书出版:
+    link: /price/4.html
+    avatar: /img/service/4.jpg
+  会务服务:
+    link: /price/5.html
+    avatar: /img/service/5.jpg
+  外语人才猎头:
+    link: /price/6.html
+    avatar: /img/service/6.jpg
+language:
+  英语:
+    avatar: /img/lang/aier.jpg
+  日语:
+    avatar: /img/lang/aier.jpg
+  德语:
+    avatar: /img/lang/aier.jpg
+  韩语:
+    avatar: /img/lang/aier.jpg
+  俄语:
+    avatar: /img/lang/aier.jpg
+  法语:
+    avatar: /img/lang/aier.jpg
+  西班牙语:
+    avatar: /img/lang/aier.jpg
+  芬兰语:
+    avatar: /img/lang/aier.jpg
+  意大利语:
+    avatar: /img/lang/aier.jpg
+  荷兰语:
+    avatar: /img/lang/aier.jpg
+  瑞典语:
+    avatar: /img/lang/aier.jpg
+  丹麦语:
+    avatar: /img/lang/aier.jpg
+  白俄罗斯语:
+    avatar: /img/lang/aier.jpg
+  挪威语:
+    avatar: /img/lang/aier.jpg
+  波斯语:
+    avatar: /img/lang/aier.jpg
+  拉丁语:
+    avatar: /img/lang/aier.jpg
+  葡萄牙语:
+    avatar: /img/lang/aier.jpg
+  罗马尼亚语:
+    avatar: /img/lang/aier.jpg
+  乌克兰语:
+    avatar: /img/lang/aier.jpg
+  波兰语:
+    avatar: /img/lang/aier.jpg
+  捷克语:
+    avatar: /img/lang/aier.jpg
+  斯洛伐克语:
+    avatar: /img/lang/aier.jpg
+  保加利亚语:
+    avatar: /img/lang/aier.jpg
+  爱尔兰语:
+    avatar: /img/lang/aier.jpg
+  苏格兰语:
+    avatar: /img/lang/aier.jpg
+  希腊语:
+    avatar: /img/lang/aier.jpg
+  塞尔维亚克罗地亚语:
+    avatar: /img/lang/aier.jpg
+  布列塔尼语:
+    avatar: /img/lang/aier.jpg
+  阿尔巴尼亚语:
+    avatar: /img/lang/aier.jpg
+  斯洛文尼亚语:
+    avatar: /img/lang/aier.jpg
+  马其顿语:
+    avatar: /img/lang/aier.jpg
+  泰国语:
+    avatar: /img/lang/aier.jpg
+  越南语:
+    avatar: /img/lang/aier.jpg
+  老挝语:
+    avatar: /img/lang/aier.jpg
+  立陶宛语:
+    avatar: /img/lang/aier.jpg
+  拉托维亚语:
+    avatar: /img/lang/aier.jpg
+  亚美尼亚语:
+    avatar: /img/lang/aier.jpg
+  匈牙利语:
+    avatar: /img/lang/aier.jpg
+  土耳其语:
+    avatar: /img/lang/aier.jpg
+  冰岛语:
+    avatar: /img/lang/aier.jpg
+  阿塞拜疆语:
+    avatar: /img/lang/aier.jpg
+  印地语:
+    avatar: /img/lang/aier.jpg
+  哈萨克语:
+    avatar: /img/lang/aier.jpg
+  吉尔吉斯语:
+    avatar: /img/lang/aier.jpg
+  阿拉伯语:
+    avatar: /img/lang/aier.jpg
+  乌兹别克语:
+    avatar: /img/lang/aier.jpg
+  维吾尔语:
+    avatar: /img/lang/aier.jpg
+  蒙古语:
+    avatar: /img/lang/aier.jpg
+  乌尔都语:
+    avatar: /img/lang/aier.jpg
+  孟加拉语:
+    avatar: /img/lang/aier.jpg
+  尼泊尔语:
+    avatar: /img/lang/aier.jpg
+  弗里西亚语:
+    avatar: /img/lang/aier.jpg
+  卢森堡语:
+    avatar: /img/lang/aier.jpg
+  马尔代夫语:
+    avatar: /img/lang/aier.jpg
+  格鲁吉亚语:
+    avatar: /img/lang/aier.jpg
+  缅甸语:
+    avatar: /img/lang/aier.jpg
+  柬埔寨语:
+    avatar: /img/lang/aier.jpg
+  莫尔多维亚语:
+    avatar: /img/lang/aier.jpg
+  印度尼西亚语:
+    avatar: /img/lang/aier.jpg
+  马来西亚语:
+    avatar: /img/lang/aier.jpg
+  爪哇语:
+    avatar: /img/lang/aier.jpg
+  威尔士语:
+    avatar: /img/lang/aier.jpg
+  马达加斯加语:
+    avatar: /img/lang/aier.jpg
+  爱沙尼亚语:
+    avatar: /img/lang/aier.jpg

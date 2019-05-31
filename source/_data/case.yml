@@ -1,30 +1,177 @@
 book:
   name: 图书翻译
   items:
-    这是一本书:
+    爱情十讲:
       avatar: /img/lang/aier.jpg
       link: /case/book/1.html
-    这是第二本书:
+    爆红:
       avatar: /img/lang/aier.jpg
-      link: /case/book/2.html
+      link: /case/book/1.html
+    变现：职场掘金的精进之路:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    不成熟的父母:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    不同的音调——自闭症的故事:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    车神1:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    吃饭，流汗，玩耍:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    吃土:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    达人造星球:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    蝶之舞:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    非传统挥杆:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    海上提琴师:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    积极上瘾:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    零售无界:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    美国供给侧模式启示录:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    逆境成长:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    逆商:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    区块链冲击:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    热搜:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    人工智能的本质与未来:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    如何正确吵架:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    莎士比亚:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    世界的未来:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    天生非此:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    微软Azure机器学习实战手册:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    雪人历险记:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    一本书读懂Fintech:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    一息之间:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    优雅的离别:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    这不是你的错:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    终极跑步机健身:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    追随:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
+    自尊:
+      avatar: /img/lang/aier.jpg
+      link: /case/book/1.html
 notbook:
   name: 非图书翻译
   items:
-    这是电影:
+    报告:
       avatar: /img/lang/aier.jpg
       link: /case/notbook/1.html
-    这是字幕:
+    产品手册:
       avatar: /img/lang/aier.jpg
-      link: /case/notbook/2.html
+      link: /case/notbook/1.html
+    广告文案:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    合同:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    剧本:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    论文:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    起诉书:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    视频字幕:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    网站:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    行业标准:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    招标文件:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    证件:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
+    PPT:
+      avatar: /img/lang/aier.jpg
+      link: /case/notbook/1.html
 sync:
   name: 同声传译
   items:
-    同声传译1:
+    "全球视野 守握未来 瑞士合众集团领袖论坛（北京，2018年）":
       avatar: /img/lang/aier.jpg
       link: /case/sync/1.html
-    同声传译2:
+    "全球黑客“奥斯卡” DEFCON China 2018（北京，2018年）":
       avatar: /img/lang/aier.jpg
-      link: /case/sync/2.html
+      link: /case/sync/1.html
+    "粮食平衡表编制国际培训班（西安，2018年）":
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
+    "2018国际城市管理年会（青岛，2018年）":
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
+    "中国政府统计与旅游统计管理国际培训班（成都，2017年）":
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
+    "诺亚财富橡树高端午餐会（北京，2017年）":
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
+    "全球资产配置峰会（北京，2017年）":
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
+    "诺亚财富全球资产配置峰会 全球投资午餐会（北京，2017年）":
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
+    "Vista——专注于手机投资的隐形巨人（北京，2016年）":
+      avatar: /img/lang/aier.jpg
+      link: /case/sync/1.html
 async:
   name: 交替传译
   items:

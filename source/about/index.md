@@ -1,5 +1,5 @@
 ---
-title: 公司简介
+title: 译象简介
 thumbnail: "/img/3.jpg"
 ---
 

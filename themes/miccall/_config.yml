@@ -14,7 +14,7 @@ Intro:
   HeadButton: 大译象
 
 Nav:
-  Home_name: 主页
+  Home_name: 译象主页
   is_use_categories: false
   # categories_name: 分类
   is_use_archives: false
@@ -31,19 +31,22 @@ Nav:
 
   pages:
     # 自定义连接页
+    # 译象主页，译象简介、译象服务、译象案例、译象客户、译象风采、加入译象、联系译象
     # link 的参数为相对路径，对应 hexo 目录下的 source 件夹内的相应文件夹
-    专业服务:
+    译象服务:
       link: "/price/"
-    翻译案例:
+    译象案例:
       link: "/case/"
+    译象客户:
+      link: "/customer/"
     译象风采:
       link: "/group/"
-    公司简介:
+    译象简介:
       link: "/about/"
     加入译象:
       link: "/join/"
-    #自定义标签名
-    #   link：“路径”
+    联系译象:
+      link: "/contact/"
 
 MainFirst:
   name: Transvision

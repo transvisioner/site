@@ -53,8 +53,8 @@
     }
 
     .our-team .pic img {
-        width: 100%;
-        height: auto;
+        width: 244px;
+        height: 315px;
         transform: scale(1);
         transition: all 0.9s ease 0s;
     }
@@ -146,19 +146,10 @@
                         <div class="row">
                             <% if (site.data.case[i].items) { %>
                                 <% for (var j in site.data.case[i].items) { %>
-                                    <% if (site.data.case[i].name !== '同声传译') { %>
                                     <div class="col-md-3 col-sm-6" style="margin-top: 1rem;">
-                                    <% } %>
-                                    <% if (site.data.case[i].name === '同声传译') { %>
-                                    <div class="col-md-6 col-sm-12" style="margin-top: 1rem;">
-                                    <% } %>
                                         <div class="our-team">
                                             <div class="pic">
-<!--                                                <% if (site.data.case[i].items[j].link != null) { %>-->
-<!--                                                    <a href="<%= site.data.case[i].items[j].link %>">-->
-<!--                                                        <img src="<%= site.data.case[i].items[j].avatar %>">-->
-<!--                                                    </a>-->
-<!--                                                <% } %>-->
+                                                <img src="<%= site.data.case[i].items[j].avatar %>">
                                             </div>
                                             <span class="title" style="white-space: nowrap"><%= j %></span>
                                         </div>

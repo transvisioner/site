@@ -32,7 +32,7 @@ thumbnail: "/img/4.jpg"
 
 ### 申请方式
 
-* 【申请邮箱】zhaopin@@transvisioner.com
+* 【申请邮箱】hr@transvisioner.com
 * 【邮件主题】职位名称-姓名-所在单位
 * 【邮件正文】自我介绍及申请本岗位的理由、未来职业规划、上一份工作的薪资、本岗位的最低薪资和期望薪资                                           
 ### 附件
@@ -68,7 +68,7 @@ thumbnail: "/img/4.jpg"
 
 ### 申请方式
 
-【申请邮箱】zhaopin@@transvisioner.com
+【申请邮箱】hr@transvisioner.com
 【邮件主题】职位名称-姓名-所在单位
 【邮件正文】自我介绍及申请本岗位的理由、未来职业规划、上一份工作的薪资、本岗位的最低薪资和期望薪资                                           
 【附件】

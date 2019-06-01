@@ -51,7 +51,7 @@ Nav:
 MainFirst:
   name: Transvision
   description: "大译象,大异象 <br> Translation, Transvision"
-  pic_url: "/images/me.jpg"
+  pic_url: "https://i.loli.net/2019/05/31/5cf0a7d889d0c67009.jpg"
   goto_ulr: ""
 
 Gallery:
@@ -62,8 +62,8 @@ Gallery:
 # Style Settings
 # ---------------------------------------------------------------
 
-# Custom code Render System 自定义代码渲染 
-# default dark funky okaidia twilight coy solarized  可选项  
+# Custom code Render System 自定义代码渲染
+# default dark funky okaidia twilight coy solarized  可选项
 # link to review : http://prismjs.com/index.html   官网预览
 prism: coy
 
@@ -116,7 +116,7 @@ busuanzi:
   busuanzi_pure_mini_js: "https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"
 
 
-# Mathjax 支持库 
+# Mathjax 支持库
 mathjax:
   enable: false
   per_page: false

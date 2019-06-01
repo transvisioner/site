@@ -1,6 +1,6 @@
 ---
 title: 大译象大数据融合发展成果显著
-thumbnail: "/img/2.jpg"
+thumbnail: https://i.loli.net/2019/05/31/5cf0a7d66818683234.jpg
 date: 2019-05-1 17:13:00
 ---
 

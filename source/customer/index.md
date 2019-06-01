@@ -1,6 +1,6 @@
 ---
 title: 译象客户
-thumbnail: "/img/4.jpg"
+thumbnail: https://i.loli.net/2019/05/31/5cf0a7d4c1f7674331.jpg
 ---
 
 * 中国科学院

@@ -1,22 +1,22 @@
 service:
   笔译:
     link: /price/1.html
-    avatar: https://i.loli.net/2019/05/31/5cf0ac5e9ab3091374.jpg
+    avatar: /img/price/1.jpg
   口译:
     link: /price/2.html
-    avatar: https://i.loli.net/2019/05/31/5cf0ac5de6b2e43024.jpg
+    avatar: /img/price/2.jpg
   培训:
     link: /price/3.html
-    avatar: https://i.loli.net/2019/05/31/5cf0ac5d5d83c40435.jpg
+    avatar: /img/price/3.jpg
   图书出版:
     link: /price/4.html
-    avatar: https://i.loli.net/2019/05/31/5cf0ac5f589d689668.jpg
+    avatar: /img/price/4.jpg
   会务服务:
     link: /price/5.html
-    avatar: https://i.loli.net/2019/05/31/5cf0ac601554c23262.jpg
+    avatar: /img/price/5.jpg
   外语人才猎头:
     link: /price/6.html
-    avatar: https://i.loli.net/2019/05/31/5cf0ac60c0e7a46435.jpg
+    avatar: /img/price/6.jpg
 language:
   英语:
     avatar: /img/lang/aier.jpg

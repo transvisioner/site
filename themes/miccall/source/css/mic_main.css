@@ -2197,7 +2197,7 @@
 			#me .pic:before {
 				content: '';
 				position: absolute;
-				background: url("https://i.loli.net/2019/05/31/5cf0a7d889d0c67009.jpg");
+				background: url("/img/background/me.jpg");
 				width: 100%;
 				z-index: 1;
 			}

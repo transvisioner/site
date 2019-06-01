@@ -1,6 +1,6 @@
 ---
 title: 联系译象
-thumbnail: https://i.loli.net/2019/05/31/5cf0a7d4c1f7674331.jpg
+thumbnail: /img/background/2.jpg
 ---
 
 ### 公司地址

@@ -51,7 +51,7 @@ Nav:
 MainFirst:
   name: Transvision
   description: "大译象,大异象 <br> Translation, Transvision"
-  pic_url: "https://i.loli.net/2019/05/31/5cf0a7d889d0c67009.jpg"
+  pic_url: "/img/background/me.jpg"
   goto_ulr: ""
 
 Gallery:

@@ -1,6 +1,10 @@
 book:
   name: 图书翻译
   items:
+    "让孩子学会思考":
+      avatar: /img/case/book/34.jpg
+    "麦肯锡精英高效阅读法":
+      avatar: /img/case/book/35.jpg
     "爱情十讲":
       avatar: /img/case/book/1.jpg
     "爆红":

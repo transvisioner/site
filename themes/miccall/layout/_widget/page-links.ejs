@@ -8,6 +8,7 @@
         text-align: center;
         overflow: hidden;
         position: relative;
+        min-height: 600px;
     }
 
     .our-team .pic {
@@ -134,7 +135,7 @@
                             <div class="row">
                                 <% if (site.data.links) { %>
                                     <% for (var i in site.data.links) { %>
-                                        <div class="col-md-3 col-sm-6" style="margin-top: 30px">
+                                        <div class="col-md-4 col-sm-6" style="margin-top: 30px">
                                             <div class="our-team">
                                                 <div class="pic">
                                                     <img src="<%= site.data.links[i].avatar %>">
@@ -143,20 +144,6 @@
                                                     <h3 class="title"><%= i %></h3>
                                                     <Span class="post"><%= site.data.links[i].descr %></Span>
                                                 </div>
-                                                <ul class="social">
-                                                    <% if (site.data.links[i].link != null) { %>
-                                                        <li><a href="<%= site.data.links[i].link%>" class="fa fa-link"></a></li>
-                                                    <%}%>
-                                                    <% if (site.data.links[i].qq != null) { %>
-                                                        <li><a href="<%= site.data.links[i].qq%>" class="fa fa-qq"></a></li>
-                                                    <%}%>
-                                                    <% if (site.data.links[i].wachat != null) { %>
-                                                        <li><a href="<%= site.data.links[i].wachat%>" class="fa fa-wechat"></a></li>
-                                                    <%}%>
-                                                    <% if (site.data.links[i].weibo != null) { %>
-                                                        <li><a href="<%= site.data.links[i].weibo%>" class="fa fa-weibo"></a></li>
-                                                    <%}%>
-                                                </ul>
                                             </div>
                                         </div>
                                         <% } %>
